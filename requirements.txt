@@ -1,10 +1,10 @@
-streamlit
+streamlit==1.54.0
 faiss-cpu
 sentence-transformers
 numpy
 firebase-admin
 bcrypt
-google-genai
+google-genai==0.3.0
 torch
 requests
-google-generativeai
+pydantic<2
