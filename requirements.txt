@@ -4,7 +4,6 @@ sentence-transformers
 numpy
 firebase-admin
 bcrypt
-google-genai==0.3.0
+google-genai==0.2.2
 torch
 requests
-pydantic<2
